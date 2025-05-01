@@ -1,0 +1,17 @@
+# -*- coding: utf-8 -*-
+"""
+Editor Spyder
+
+Este é um arquivo de script temporário.
+"""
+
+letra = 'a'
+palavra1 = 'linguagem de programação'
+palavra2 = 'python'
+
+print(letra, palavra1)
+print('letra,palavra1')
+print('está', palavra1, 'se chama', palavra2 )
+idade = int(input('digite sua idade'))
+print('sua idade é', idade)
+idade
