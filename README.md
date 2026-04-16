@@ -8,6 +8,7 @@ Os materiais aqui presentes refletem minha evolução constante:
 * **Fundamentos e Funções**: Exercícios práticos de lógica e reutilização de código.
 * **Estrutura de Dados**: Manipulação de matrizes.
 * **Projetos Práticos**: Aplicação dos conhecimentos em soluções reais.
+* **Jupyter Notebooks**: Testes rápidos e anotações de aula de forma visual.
 
 ## 🛠️ Stack e Aprendizados
 * **Linguagem**: Python 
